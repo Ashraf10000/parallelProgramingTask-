@@ -1,0 +1,9 @@
+# ninja log v5
+0	1367	7188454352512059	CMakeFiles/User_AuthenticationANDRegisteration.dir/main.c.obj	8f90df8d43c6b47f
+1452	2548	7188454366020621	User_AuthenticationANDRegisteration.exe	6fd072459c65c8cc
+1	306	7188457460903303	CMakeFiles/User_AuthenticationANDRegisteration.dir/main.c.obj	8f90df8d43c6b47f
+306	640	7188457464219677	User_AuthenticationANDRegisteration.exe	6fd072459c65c8cc
+1	491	7188461831529948	CMakeFiles/User_AuthenticationANDRegisteration.dir/main.c.obj	8f90df8d43c6b47f
+492	883	7188461835421674	User_AuthenticationANDRegisteration.exe	6fd072459c65c8cc
+1	61	7188462689105196	CMakeFiles/User_AuthenticationANDRegisteration.dir/main.c.obj	8f90df8d43c6b47f
+61	152	7188462689895194	User_AuthenticationANDRegisteration.exe	6fd072459c65c8cc
